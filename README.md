@@ -1,2 +1,2 @@
 # hangman
-word based game
+word based game like wordle 
